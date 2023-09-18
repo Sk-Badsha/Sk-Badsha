@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sk-badsha" alt="sk-badsha" /></a> </p>
 
-- 🔭 I’m currently working on **Doctor Appointment**
+- 🔭 I’m currently working on **Doctor Appointment Booking System Project**
 
 - 🌱 I’m currently learning **C#, .NET Framework etc.**
 
